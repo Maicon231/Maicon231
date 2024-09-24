@@ -4,5 +4,5 @@
 ### :arrow_forward: Estou interessado em criar jogos e sites interativos;
 ### :arrow_forward: Eu estou atualmente aprendendo a usar o React com Note.js;
 ### :arrow_forward: Estou buscando colaborar com todas as pessoas interessadas na área de programação, por meio de projetos desenvolvidos nos cursos oferecidos pelo SENAI da minha região;
-### :arrow_forward: Pode me contactar através do meu GitHub;
+### :arrow_forward: Pode me contactar através do meu [GitHub](https://github.com/MaiconGois);
 ### :arrow_forward: Pronomes: Ele/Dele;
